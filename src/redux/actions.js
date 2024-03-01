@@ -4,7 +4,6 @@ export const addtodo = (text) => ({
   type:add_todo,
   payload: {text} 
 })
-
 export const toggletodo = (id) => ({
   type:toggle_todo,
   payload: {id} 

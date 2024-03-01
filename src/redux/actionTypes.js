@@ -1,4 +1,4 @@
-export const add_todo = "Add_todo"
+export const add_todo = "add_todo"
 export const toggle_todo = "toggle_todo"
 export const remove_task = "remove_task"
 export const completed_task = "completed_task"
